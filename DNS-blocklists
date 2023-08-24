@@ -1,0 +1,69 @@
+AdGuard DNS filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
+AdAway Default Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+
+Dan Pollock's List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
+
+Steven Black's List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+
+WindowsSpyBlocker - Hosts
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+NoCoin Filter List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
+
+Dandelion Sprout's Anti-Malware
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
+
+Malicious URL Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+Phishing URL Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+
+The Big List of Hacked Malware
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+
+Peter Lowe's Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+
+PinoyMovies
+https://raw.githubusercontent.com/hiruyukiashiwara/cpzfilter/main/PinoyMovies.txt
+
+Cyanide Anti Porn
+https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts_acrylic
+
+Disconnect
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+Torrent
+https://blocklistproject.github.io/Lists/torrent.txt
+
+WindowsSpyBlocker
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+CHN: anti-AD
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+
+Stalkerware Indicators List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
+
+Perflyst and Dandelion Sprout's Smart-TV Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+
+HaGeZi Personal Black & White
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
+
+NLD: Easylist
+https://easylist-downloads.adblockplus.org/easylistdutch.txt
+
+Adguard PopUpFilters
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt
+
